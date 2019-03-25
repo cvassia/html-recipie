@@ -1,0 +1,23 @@
+body {
+  box-sizing: border-box;
+}
+
+section {
+  width: 400px;
+  background-color: rgb(184, 182, 182);
+  border: 10px solid rgba(0, 0, 0, 0.151);
+}
+
+#container {
+  border: 3px solid rgb(0, 0, 0);
+  padding: 18px;
+}
+
+p {
+  width: 95%;
+  text-align: justify;
+}
+
+img {
+  width: 70%;
+}
